@@ -12,7 +12,7 @@ metadata:
     almost: done
     weather: rainy
 spec:
-  replicas: 3
+  replicas: 5
   selector:
     matchLabels:
       app: sampleginx
